@@ -13,12 +13,12 @@
 
     <table class="table">
         <thead>
-            <td>Marque</td>
-            <td>Modele</td>
-            <td>Energie</td>
-            <td>Boite de vitesse</td>
-            <td>Image</td>
-            <td>Actions</td>
+            <td> <u>Marque</u></td>
+            <td> <u>Modele</u></td>
+            <td> <u>Energie</u></td>
+            <td> <u>Boite de vitesse</u></td>
+            <td> <u>Image</u></td>
+            <td> <u>Actions</u></td>
         </thead>
 
         <tbody>
